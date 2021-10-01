@@ -1,5 +1,5 @@
-Hi
-My name is Md. Ammar Hossen Sadiq
+Hi, 
+My name is Md. Ammar Hossen Sadiq.
 I am a intermediate level python developer.
 I am currently practicing to be an expert pythonistic. 
 You are welcome to exchange knowledge and any kind of suggesion. 
