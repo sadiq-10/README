@@ -6,6 +6,3 @@ You are welcome to exchange knowledge and any kind of suggesion.
 Feel free to contact with me @ 
 "https://www.facebook.com/mah.sadiq/" 
 or skype "live:.cid.2005fd54aa94d6cf"
-
-
-## I am doing this for learning git and github
